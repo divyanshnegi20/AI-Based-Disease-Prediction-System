@@ -1,0 +1,7 @@
+Heart Rate (bpm),SpO2 Level (%),Systolic Blood Pressure (mmHg),Diastolic Blood Pressure (mmHg),Body Temperature (Â°C),Fall Detection,Heart Rate Alert,SpO2 Level Alert,Blood Pressure Alert,Temperature Alert,prediction,timestamp,model
+90,85,139,57,37,NO,NORMAL,ABNORMAL,NORMAL,NORMAL,Asthma,2025-10-31T14:55:51,disease_pipeline.joblib
+103,100,136,114,37.2,NO,ABNORMAL,NORMAL,ABNORMAL,NORMAL,Diabetes Mellitus,2025-10-31T14:55:52,disease_pipeline.joblib
+90,85,139,57,37,NO,NORMAL,ABNORMAL,NORMAL,NORMAL,Asthma,2025-10-31T15:19:23,disease_pipeline.joblib
+103,100,136,114,37.2,NO,ABNORMAL,NORMAL,ABNORMAL,NORMAL,Diabetes Mellitus,2025-10-31T15:19:23,disease_pipeline.joblib
+93,70,96,54,35.2,NO,ABNORMAL,ABNORMAL,ABNORMAL,ABORMAL,Asthma,2025-10-31T15:36:16,disease_pipeline.joblib
+104,97,178,97,36.9,NO,ABNORMAL,NORMAL,ABNORMAL,NORMAL,Heart Disease,2025-10-31T15:43:54,disease_pipeline.joblib
