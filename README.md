@@ -9,6 +9,7 @@ Builds a preprocessing + model pipeline with feature engineering.
 Trains baselines, tunes Random Forest with CV, refits on train+val, and evaluates on test.
 Saves a joblib pipeline for inference.
 Supports demo and batch predictions, and appends every prediction to prediction_log.csv with timestamp and model id.
+
 How it works:
 Preprocessing ->
   - Numeric: median imputation + StandardScaler.
